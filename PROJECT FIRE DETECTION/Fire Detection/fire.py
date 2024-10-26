@@ -12,13 +12,13 @@ import socket
 
 load_dotenv()
 
-email_sender = "tecmo.098@gmail.com"
+email_sender = "correoenviar@gmail.com" #correo de la cuenta con la que enviaras correo y de la cual solicitaste la contraseña de aplicación 
 password = os.getenv("PASSWORD")
-email_reciver = "elvin.efren.soto@gmail.com"
+email_reciver = "correorecibir@gmail.com" #correo de la cuenta en la cual recibiras los correos
 
 subject = "Hemos detectado fuego"
 body = """
-     La camara de seguridad ha detectado una fuente sospechosa de fuego en el aula 08 de ISOF.
+     La camara de seguridas ha detectado fuego en el area.
 """
 
 em = EmailMessage()
