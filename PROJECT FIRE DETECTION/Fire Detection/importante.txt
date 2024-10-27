@@ -1,4 +1,6 @@
-Es importante que cree un archivo dentro de la carpeta que se llame env aqui es donde defines la PASSWORD utilizada dentro del codigo fire.py  para que el codigo sea mas seguro, algo asi tiene que estar solo cambiar las X por la contraseña de aplicacion creada en google
+Es importante que cree un archivo dentro de la carpeta que se llame env 
+aqui es donde defines la PASSWORD utilizada dentro del codigo fire.py  
+para que el codigo sea mas seguro, algo asi tiene que estar solo cambiar las X por la contraseña de aplicacion creada en google
 
 PASSWORD = "xxxx xxxx xxxx xxxx"
 """
